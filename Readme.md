@@ -83,3 +83,4 @@
 - **[How Much Horsepower Do You Really Need?](https://jalopnik.com/how-much-horsepower-do-you-really-need-1851641603)**: No description available.
 - **[Ask HN: How to deal with AI generated sloppy code](https://news.ycombinator.com/item?id=41677207)**: No description available.
 - **[CA01 new design assisted (iA) new 3d model - ZBrushCentral](https://www.zbrushcentral.com/t/ca01-new-design-assisted-ia-new-3d-model/465919)**: No description available.
+- **[Vibe-Coding Security Tracker](https://milokits.com/tracker/)**: Sourced list of publicly reported security incidents in AI-built apps and AI coding tools, each linked to its original source.
